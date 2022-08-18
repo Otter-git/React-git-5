@@ -1,0 +1,18 @@
+.counter {
+    display: flex;
+    align-items: center;
+}
+
+.currentNumber {
+    padding: 20px;
+    font-size: xxx-large;
+    color: teal;
+}
+
+.plus, .minus {
+    font-size: xxx-large;
+    padding: 20px;
+    color: #ff3d00;
+    background-color: linen;
+    border: none;
+}
